@@ -1,0 +1,8 @@
+{
+    "name": "Publish TechDocs",
+    "description": "Generate and publish TechDocs to GCS.",
+    "iconName": "backstage_logo",
+    "filePatterns": [
+        "mkdocs.y[a]?ml"
+    ]
+}
